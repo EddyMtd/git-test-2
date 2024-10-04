@@ -6,6 +6,6 @@
     <title>Hello world</title>
 </head>
 <body>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi architecto numquam adipisci error fugiat, illum quae odit ipsum obcaecati, nam eaque veniam nostrum aliquam laudantium perspiciatis odio. Eum, ratione atque!</p>
 </body>
 </html>
